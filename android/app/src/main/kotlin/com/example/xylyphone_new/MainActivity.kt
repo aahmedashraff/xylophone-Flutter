@@ -1,0 +1,6 @@
+package com.example.xylyphone_new
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
